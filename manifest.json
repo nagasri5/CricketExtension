@@ -1,0 +1,11 @@
+{
+    "name": "Cricket Extension",
+    "version": "1.0.0",
+    "description": "It is an extension which shows information about cricket matches",
+    "manifest_version": 3,
+    "author": "Naga sri",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Cricket Extension"
+    }
+}
